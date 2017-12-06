@@ -18,6 +18,11 @@ Embodied machine learning is an educational game aimed at people trying to acqui
 ### Output Layer
 ![output layer](assets/output-layer.gif)
 
+### Training
+
+![training process](assets/training.gif)
+
+![training complete](assets/training-complete.png)
 
 ## 2. Testing
 ![testing the network](assets/testing.gif)
