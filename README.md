@@ -8,7 +8,7 @@ The game refrains from involving math and calculations and tries to create under
 
 In technical terms, the game is a (human) handwritten digit classifier trained on the MNIST dataset through supervised learning. Essentially, this means: a group of people together will be able to identify handwritten digits.
 
-Identifying handwritten digits of course comes natural to most literate people (unless, perhaps, the digit is written by a doctor) but used to be quite hard a problem for computers. While the problem is long solved MNIST, a dataset of 60.000 labelled images of handwritten digits, remains a classic dataset and benchmarking tool for ML applications. I choose to emulate a MNIST classifier for this historic significance and to create a sense of purpose or achievement for players in my game.
+Identifying handwritten digits of course comes natural to most literate people (unless, perhaps, the digit is written by a doctor) but used to be quite hard a problem for computers. While the problem is long solved [MNIST](https://en.wikipedia.org/wiki/MNIST_database), a dataset of 60.000 labelled images of handwritten digits, remains a classic dataset and benchmarking tool for ML applications. I choose to emulate a MNIST classifier for this historic significance and to create a sense of purpose or achievement for players in my game.
 
 
 ## Gameplay
@@ -25,8 +25,8 @@ This logic is implemented through a system of colors, shapes, and the passing of
 
 1. Print the [shape cards and data cards](ressources/cards.pdf) on US Letter sized paper as duplex.
 2. Cut each sheet into eight equal size cards. Use the dotted lines as guides.
-3. Arrange all training cards (the ones with the black squares) in a stack. Each card has on its back two numbers. Make sure that always four consecutive cards have the same back.
-4. Setup the game room in a seating arrangement like in the image below and distribute the shape cards to each player in the third row. Rows are called layers now.
+3. Arrange all [training cards](assets/print-sheet-data.png) (the ones with the black squares) in a stack. Each card has on its back two numbers. Make sure that always four consecutive cards have the same back.
+4. Setup the game room in a seating arrangement like in the image below and distribute the [shape cards](assets/print-sheet-shapes.png) to each player in the third row. Rows are called layers now.
 	![setup](assets/setup.png)
 
 
